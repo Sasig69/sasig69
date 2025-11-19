@@ -1,3 +1,1 @@
-┌──(root㉿localhost)-[/dev/null]
-└─# whoami
-ghost
+Don’t blink.
